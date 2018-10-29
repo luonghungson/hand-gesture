@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OPimg</folder>
+	<filename>gesture2_1_64_-5d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/gesture2_1_64.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>200</ymin>
+			<xmax>640</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

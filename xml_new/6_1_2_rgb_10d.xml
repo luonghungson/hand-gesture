@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6_1_2_rgb_10d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/6_1_2_rgb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1427</width>
+		<height>1167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymin>444</ymin>
+			<xmax>1013</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+</annotation>

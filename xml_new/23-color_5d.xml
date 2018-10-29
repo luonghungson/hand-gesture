@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>23-color_5d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/23-color.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>163</ymin>
+			<xmax>430</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

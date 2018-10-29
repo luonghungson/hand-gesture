@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OPimg</folder>
+	<filename>frame1948_5d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/frame1948.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>175</ymin>
+			<xmax>552</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

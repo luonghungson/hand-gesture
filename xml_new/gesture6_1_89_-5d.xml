@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OPimg</folder>
+	<filename>gesture6_1_89_-5d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/gesture6_1_89.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>193</ymin>
+			<xmax>554</xmax>
+			<ymax>451</ymax>
+		</bndbox>
+	</object>
+</annotation>

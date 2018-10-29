@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kinect_dataset</folder>
+	<filename>A_P_hgr2B_id04_1_10d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/A_P_hgr2B_id04_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>498</width>
+		<height>664</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>0</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>213</ymin>
+			<xmax>331</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

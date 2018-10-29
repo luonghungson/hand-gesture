@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OPimg</folder>
+	<filename>gesture8_3_316_-10d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/gesture8_3_316.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>713</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>184</ymin>
+			<xmax>554</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

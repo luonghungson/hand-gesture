@@ -1,0 +1,26 @@
+<annotation>
+	<folder>OPimg</folder>
+	<filename>gesture3_1_137_10d.png</filename>
+	<path>/home/real-vigga/kinect_dataset/image/gesture3_1_137.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>713</width>
+		<height>583</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>276</ymin>
+			<xmax>484</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
